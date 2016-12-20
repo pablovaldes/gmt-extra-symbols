@@ -1,0 +1,1 @@
+Copyright Pablo Valdés 2007-2016 under License GPL (see file License for details) 
